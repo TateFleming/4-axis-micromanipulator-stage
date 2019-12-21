@@ -25,4 +25,6 @@ Arduino Libraries:
 - Firmata
 
 Python Libraries:
-- 
+- TKinter
+- PyFirmata
+- Time
