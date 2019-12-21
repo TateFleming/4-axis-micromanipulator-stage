@@ -7,7 +7,7 @@ Required materials:
 - Stepper motors (4) *used Model: 42BYGHM809
 - Big Easy Driver (4) *or 1 driver and multiplex the motors or shift register
 - Arduino Mega *could possibly use Uno if you multiplex the motors with one driver
-- 2A current supply
+- Current supply *used 12V 10A DC supply at ~2A
 - flexible coupling for the motors to the micrometers
 
 Optional materials:
