@@ -19,7 +19,7 @@ Optional materials used:
 
 Software:
 - Arduino
-- Python *or Processing
+- Python *or Processing (started with Processing and converted to Python about halfway through)
 
 Arduino Libraries:
 - Firmata
