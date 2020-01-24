@@ -1,4 +1,4 @@
-This folder contains the photos of the setup without the stage (arduino, drivers, enclosure, motors, etc.).
+This folder contains the photos of the setup without the stage (arduino, drivers, enclosure, motors, etc.). The actual stage consists of 3 micrometers magnetically connected to a block that can translate in the x, y, and z directions by rotating the micrometers. 
 
 The enclosure was machined to include holes for the power supply connections, USB connection, DB32 connector, and standoffs for the board and drivers.
 
