@@ -1,4 +1,4 @@
-This folder contains the photos of the setup without the stage (arduino, drivers, enclosure, motors, etc.). The actual stage consists of 3 micrometers magnetically connected to a block that can translate in the x, y, and z directions by rotating the micrometers. 
+This folder contains the photos of the setup without the stage (arduino, drivers, enclosure, motors, etc.). The actual stage consists of 3 micrometers magnetically connected to a block that can translate in the x, y, and z directions by rotating the micrometers. The coupling.jpg shows what is used to connect the stepper motors to the micrometers. The couplers are flexible and can withstand more torque than the stepper motors can provide, which is significantly more than the amount required to rotate the micrometers.
 
 The enclosure was machined to include holes for the power supply connections, USB connection, DB32 connector, and standoffs for the board and drivers.
 
