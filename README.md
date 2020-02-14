@@ -28,3 +28,9 @@ Python Libraries:
 - TKinter
 - PyFirmata
 - Time
+
+Additional Notes:
+An executable file can be created from the py file using pyinstaller.
+- Install pyinstaller using "pip install pyinstaller"
+- Navigate to the directory of the py file
+- Use "pyinstaller --onefile filename.py"
