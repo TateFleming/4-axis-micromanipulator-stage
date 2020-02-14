@@ -2,9 +2,17 @@ from tkinter import *
 from pyfirmata import ArduinoMega, util
 from time import sleep
 
+com = input("Input COM port for Arduino (ex: COM4): ")
 
-b = ArduinoMega('COM7')
+try:
+    b = ArduinoMega(com)
 
+except Exception as e:
+    logf = open("error.log", "w")
+    logf.write("Failed to connect to {0}: {1}\n".format(com, str(e)))
+    logf.close()
+    sys.exit()
+    
 it = util.Iterator(b)
 it.start()
 
