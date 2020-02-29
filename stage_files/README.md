@@ -7,3 +7,9 @@ The python file should contain the correct COM port string at which the board is
 This is an initial version of the program. It has not been extensively tested. There are no safety measures to prevent crashing the stage at the moment.
 
 New versions will come during the spring semester.
+
+NEWEST UPDATES:
+User input COM port for Arduino. Error catching/logging if the Arduino cannot be interfaced correctly.
+
+FEATURES TO COME:
+Better 'HOME' method. Added bluetooth connection with another Arduino for controlling selected motor using mechanical switch.
